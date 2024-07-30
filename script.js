@@ -15,7 +15,7 @@ let formContainer = document.querySelector('.form_container');
 
 /* Update Main Title While Title Input Is Changed */
 
-// onchange only updates after user clicks outside of texbox
+// onchange only updates after user clicks outside of textbox
 /* titleInput.onchange = function () {
   mainTitle.innerHTML = titleInput.value;
 }; */
